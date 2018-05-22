@@ -3,7 +3,7 @@
   "name": "案例网 PWA App",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "logo.png",
       "sizes": "64x64",
       "type": "image/png"
     }
